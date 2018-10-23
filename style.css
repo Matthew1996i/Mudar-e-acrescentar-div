@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn{
+    background-color: rgb(116, 219, 103);
+    border: none;
+    font-family: sans-serif;
+    border-radius: 5px;
+    width: 5em;
+    height: 2em;
+    font-size: 1.5vw;
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+.conteudo{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: black;
+    
+}
+
